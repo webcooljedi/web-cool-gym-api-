@@ -1,6 +1,6 @@
 # Web cool gym
 (npm 16)
 
-npm i
+npm install
 
 npm start
