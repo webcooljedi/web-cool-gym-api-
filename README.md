@@ -1,5 +1,6 @@
-# React Fitness Application
+# Web cool gym
+(npm 16)
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+npm i
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+npm start
